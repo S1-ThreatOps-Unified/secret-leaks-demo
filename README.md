@@ -4,4 +4,4 @@
 
 It is intended for educational and demo purposes only.
 
-It is baselined from (secret-leaks-demo)[https://github.com/S1-ThreatOps/secret-leaks-demo]
+It is baselined from [secret-leaks-demo](https://github.com/S1-ThreatOps/secret-leaks-demo)
